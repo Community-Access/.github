@@ -6,7 +6,7 @@ Community Access is a community-driven open-source organization building AI-powe
 
 ## What We Build
 
-- **[Accessibility Agents](https://github.com/Community-Access/a11y-agent-team)**: 35 specialized AI agents that enforce WCAG 2.2 AA compliance across web code, Office documents, PDFs, and Markdown. Install in one command.
+- **[Accessibility Agents](https://github.com/Community-Access/accessibility-agents)**: 35 specialized AI agents that enforce WCAG 2.2 AA compliance across web code, Office documents, PDFs, and Markdown. Install in one command.
 
 ## Why This Exists
 
@@ -16,9 +16,9 @@ AI coding tools generate inaccessible code by default. They forget ARIA rules, s
 
 We are built by and for the blind and low vision community. Your lived experience, domain knowledge, and contributions make these tools better for everyone.
 
-- [Contributing Guide](https://github.com/Community-Access/a11y-agent-team/blob/main/CONTRIBUTING.md)
-- [Code of Conduct](https://github.com/Community-Access/a11y-agent-team/blob/main/CODE_OF_CONDUCT.md)
-- [Open Issues](https://github.com/Community-Access/a11y-agent-team/issues)
+- [Contributing Guide](https://github.com/Community-Access/accessibility-agents/blob/main/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/Community-Access/accessibility-agents/blob/main/CODE_OF_CONDUCT.md)
+- [Open Issues](https://github.com/Community-Access/accessibility-agents/issues)
 
 ## Owners
 
