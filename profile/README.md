@@ -19,8 +19,3 @@ We are built by and for the blind and low vision community. Your lived experienc
 - [Contributing Guide](https://github.com/Community-Access/accessibility-agents/blob/main/CONTRIBUTING.md)
 - [Code of Conduct](https://github.com/Community-Access/accessibility-agents/blob/main/CODE_OF_CONDUCT.md)
 - [Open Issues](https://github.com/Community-Access/accessibility-agents/issues)
-
-## Owners
-
-- [Jeff Bishop](https://github.com/jeffreybishop)
-- [Taylor Arndt](https://github.com/taylorarndt)
